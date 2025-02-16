@@ -15,6 +15,9 @@ jobs:
       run:
         working-directory: app-1
 
+    env:
+      NUXT_GITHUB_TOKEN: ${{ secrets.NUXT_GITHUB_TOKEN }}
+
     steps:
       - uses: actions/checkout@v4
 
